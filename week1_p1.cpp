@@ -1,8 +1,8 @@
 /**********************************
 /   Brett Waugh
 /   25 August 2017
-/   Program gets an integer and
-/	returns the entered integer.
+/   Gets an integer and returns
+/	the entered integer.
 ***********************************/
 #include <iostream>
 
