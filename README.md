@@ -31,3 +31,8 @@ Week 6 Project List:
   p2: Determines the Fibonacci number at a given place in the Fibonacci Series. 
   p3: Swaps two integers.
   p4: Adds the given numbers together to get a sum. 
+  
+Week 7 Project List:
+	p1: Determines if two arrays are identical, regardless of the order.
+	p2: Calculates the average grade in a class and tells how many students are above or below the average.
+	p3: Rolls two dice and displays a table of how many times each combination was rolled.
