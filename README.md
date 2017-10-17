@@ -36,3 +36,8 @@ Week 7 Project List:
 	p1: Determines if two arrays are identical, regardless of the order.
 	p2: Calculates the average grade in a class and tells how many students are above or below the average.
 	p3: Rolls two dice and displays a table of how many times each combination was rolled.
+	
+Week 10 Project List: 
+	p1: Fills an array using pointers.
+	p2: Prints out an all uppercase version of "Take me to Clearwater beach!".
+	p3: Swaps two intergers using pointers.
