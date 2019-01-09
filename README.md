@@ -1,4 +1,4 @@
-# Object-Oriented-Programming---COP2931
+# COP2931 Object Oriented Programming
 Weekly courses from COP2931 Object Oriented Programming from Fall 2017. 
 This course was taken at the University of South Florida under Professor Sulivan.
 Major projects will also be placed in here. Note that not all weeks had assigned projects.
